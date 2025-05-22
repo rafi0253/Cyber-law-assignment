@@ -1,7 +1,6 @@
-# 📡 Building a Resilient Digital Future  
-### Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
+# Building a Resilient Digital Future Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
 
-## 🧾 Introduction
+## Introduction
 
 Bangladesh is experiencing rapid digital transformation, bringing immense opportunities for economic growth, innovation, and public service delivery. However, this progress also exposes the nation to an increasing array of cyber threats, ranging from cybercrime and data breaches to online harassment and national security concerns. While Bangladesh has enacted laws like the Information and Communication Technology (ICT) Act, 2006 (and its subsequent amendments) and the Cyber Security Act, 2023, there's a growing need to critically assess and reform these legal frameworks to build a truly resilient digital future.
 
