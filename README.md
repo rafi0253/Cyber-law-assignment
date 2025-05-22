@@ -1,4 +1,4 @@
-# Assignment Title: Building a Resilient Digital Future Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
+# Assignment Title: Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
 
 ## Course Title: Computer Ethics and Cyber Law
 
@@ -13,21 +13,13 @@ Department of Computer Science and Engineering,HSTU.
 
 ### Submitted To
 
-**Pankaj Bhowmik**  
+Pankaj Bhowmik  
 Lecturer  
 Department of Computer Science and Engineering,HSTU. 
 
 ## Introduction
 
 Bangladesh is experiencing rapid digital transformation, bringing immense opportunities for economic growth, innovation, and public service delivery. However, this progress also exposes the nation to an increasing array of cyber threats, ranging from cybercrime and data breaches to online harassment and national security concerns. While Bangladesh has enacted laws like the Information and Communication Technology (ICT) Act, 2006 (and its subsequent amendments) and the Cyber Security Act, 2023, there's a growing need to critically assess and reform these legal frameworks to build a truly resilient digital future.
-
-## Objectives
-
-- Analyze the current state of cyber law in Bangladesh.
-- Identify gaps and challenges in existing legal frameworks.
-- Study cyber law models from leading countries (e.g., EU GDPR, USA’s CFAA, India’s IT Act, Singapore’s Cybersecurity Act).
-- Propose comprehensive legal reforms tailored to the socio-political and technological context of Bangladesh.
-- Recommend an implementation roadmap and potential policy strategies.
 
 ## Major Cyber Laws
 
