@@ -6,10 +6,11 @@
 
 ### Submitted By
 
-####Name: Rafi Zubayer
-####ID:2002044
-Level-4 Semester-II
-Department of Computer Science and Engineering,HSTU.
+**Name:** Rafi Zubayer  
+**Student ID:** 2002044  
+**Level:** 4, Semester: II  
+**Department:** Computer Science and Engineering  
+**University:** Hajee Mohammad Danesh Science and Technology University (HSTU)
 
 ### Submitted To
 
