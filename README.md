@@ -1,4 +1,21 @@
-# Building a Resilient Digital Future Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
+# Assignment Title: Building a Resilient Digital Future Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
+
+## Course Title: Computer Ethics and Cyber Law
+
+## Course Code: CSE 455
+
+### Submitted By
+
+Name: Rafi Zubayer
+ID: 2002044
+Level- 4, Semester- II
+Department of Computer Science and Engineering, HSTU.
+
+### Submitted To
+
+Pankaj Bhowmik
+Lecturer
+Department of Computer Science and Engineering, HSTU.
 
 ## Introduction
 
@@ -109,7 +126,7 @@ Based on comparative analysis with global frameworks (e.g., EU’s GDPR, USA’s
 - **Introduce a Data Protection Act**  
   Ensure individual data rights, lawful data processing, and strict penalties for violations.
 
-- **Amend the Digital Security Act 2018**  
+- **Revised the Digital Security Act 2018**  
   Address concerns over press freedom and vague definitions; align it with international human rights standards.
 
 - **Establish a Cyber Law Tribunal**  
@@ -127,7 +144,7 @@ Building a resilient digital future for Bangladesh hinges on a robust, adaptable
 ### Laws and Policies (Bangladesh)
 - Digital Security Act, 2018  
   [https://bdlaws.minlaw.gov.bd/act-1261.html](https://bdlaws.minlaw.gov.bd/act-1261.html)
-- ICT Act, 2006 (Amended)  
+- ICT Act, 2006 (Revised)  
   [http://bcc.gov.bd/site/page/4ac2c9e4-b1c6-4aa5-8c41-768f86d9a68f](http://bcc.gov.bd/site/page/4ac2c9e4-b1c6-4aa5-8c41-768f86d9a68f)
 - Right to Information Act, 2009  
   [https://bdlaws.minlaw.gov.bd/act-details-1005.html](https://bdlaws.minlaw.gov.bd/act-details-1005.html)
